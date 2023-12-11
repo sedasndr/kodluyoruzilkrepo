@@ -1,3 +1,4 @@
+<img src="https://github.com/sedasndr/kodluyoruzilkrepo/blob/main/pic.png" width="320" height="180">
 
 ## Installation
 Öncelikle projeyi clonelayın. 
@@ -14,4 +15,4 @@ code .
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ## License
-[MIT][df1]
+[MIT Link](https://opensource.org/license/mit/)
